@@ -274,7 +274,8 @@ footer .copyrights a:hover{
     }
     .hero .leftside{
        text-align: center;
-        padding-bottom: 30px;
+        padding-bottom: 60px;
+        margin-left: 30px;
     }
     .hero .rightside{
         padding-bottom: 30px;
